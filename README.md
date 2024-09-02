@@ -1,5 +1,14 @@
+<!-- Animated version -->
+<!--
+<div align="center" >
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=40&pause=1000&color=2DBA4E&center=true&vCenter=true&width=435&lines=zkkv" alt="Typing SVG" />
+</div>
+-->
+
+<!-- Plain version -->
 <h1 align="center">zkkv</h1>
-<p align="center">Hi! I'm zkkv. I'm a developer that tries to learn something new every day.</p> 
+
+<p align="center">Hi! I'm zkkv. I'm a developer that tries to learn something new every day.</p>
 
 <h2 align="center">Languages, Frameworks, Libraries & Tools</h2>
 
