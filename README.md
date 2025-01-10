@@ -14,8 +14,8 @@
 
 <!-- Three lines -->
 <div align="center">
-  <img alt="Java, Python, C++, Postgres, Scala"
-    src="https://skillicons.dev/icons?i=java,python,cpp,postgres,scala" /><br/>
+  <img alt="Java, Kotlin, Python, C++, Postgres, Scala"
+    src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,postgres,scala" /><br/>
   <img alt="Spring, Selenium, Qt, OpenCV"
     src="https://skillicons.dev/icons?i=spring,selenium,qt,opencv" /><br/>
   <img alt="Git, Docker, Postman, Bash, Gradle"
